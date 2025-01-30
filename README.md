@@ -1,18 +1,3 @@
-# testcase
-// README:
-// This Next.js app now supports:
-// 1) Nostr Messaging
-// 2) LNbits-based Lightning Payments (direct invoice + LNURL pay & withdraw)
-// 3) NIP-57 Zaps
-// 4) (Experimental) Bolt12 Offers (stub) - requires a c-lightning node.
-//
-// INSTALLATION:
-// 1) npm install qrcode.react
-// 2) Create .env.local:
-//    LNBITS_API_KEY=YOUR_SECRET_ADMIN_KEY
-//    BOLT12_ENDPOINT=https://your-bolt12-backend.example
-// 3) Deploy (e.g., Vercel). Make sure environment variables are set.
-
 // pages/_app.js
 import '../styles/globals.css';
 
